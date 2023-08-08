@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-Test
+
 
 Camille Le Coz
 =============================
