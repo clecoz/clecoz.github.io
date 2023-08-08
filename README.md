@@ -1,6 +1,6 @@
 Camille Le Coz
 =============================
-
+<img src="https://github.com/clecoz/clecoz.github.io/blob/main/photo.jpg" alt="photo" style="height:120px;"/>
 Postdoctoral researcher at the Laboratoire of Météorologie Dynamique, Ecole Polytechnique, CNRS
 (camille.le-coz@lmd.ipsl.fr)
 
@@ -20,19 +20,21 @@ Employment
 * Lecturer at TU Delft
   * From May 2021 to August 2021 at the Faculty of Electrical Engineering, Mathematics and Computer Science (19h per week).
 * PhD candidate at TU Delft
-  * From Janauary 2015 to June 2021 at the Water Ressources Management department.
+  * From Janauary 2016 to June 2021 at the Water Ressources Management department.
   
 
 
 Education
 ---------
-
-* Master of Science in Applied Mathematics (cum laude), Delft University of Technology.
-  * 2013-2015
-  * Master thesis: A modified Proper Orthogonal Decomposition procedure with patterns in time for parameter estimation.
-* Diplôme d’ingénieur, Ecole Centrale Marseille, Graduate school of Science and Management.
-  * 2011-2016
+* PhD, TU Delft, 2021
+  * PhD thesis: [Setting Africa’s rainfall straight: A warping approach to position and timing errors in rainfall estimates](https://doi.org/10.4233/uuid:811faec9-9688-4f60-829e-3b073fc6fe59).
+  * Promotors: Nick van de Giesen and Arnold Heemink
+* MSc in Applied Mathematics, TU Delft, 2015.
+  * Master thesis: [A modified Proper Orthogonal Decomposition procedure with patterns in time for parameter estimation](http://resolver.tudelft.nl/uuid:0d54e5e6-133b-4c7b-a2b7-6be6e9640ed0).
+  * Advisors: Martin Verlaan, Ivan Garcia Triana and Arnold Heemink.
+* Diplôme d’ingénieur, Ecole Centrale Marseille, 2016.
   * Equivalent to Master of Engineering
-* Bachelor of Science in Engineering (obtained by equivalence after Classe préparatoire aux grandes écoles at Lycée Chateaubriand and the first year at Ecole Centrale Marseille).
+* BSc in Engineering, 2012.
+  * obtained by equivalence after Classe préparatoire aux grandes écoles at Lycée Chateaubriand and the first year at Ecole Centrale Marseille.
 
   
