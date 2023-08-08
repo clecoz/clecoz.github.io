@@ -22,7 +22,7 @@ Employment
 * Lecturer at TU Delft
   * From May 2021 to August 2021 at the Faculty of Electrical Engineering, Mathematics and Computer Science (19h per week).
 * PhD candidate at TU Delft
-  * From Janauary 2016 to June 2021 at the Water Ressources Management department.
+  * From Janauary 2016 to June 2021 at the Water Resources Management department.
   
 
 
