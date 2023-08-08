@@ -4,7 +4,8 @@ layout: home
 
 Camille Le Coz
 =============================
-<img src="https://github.com/clecoz/clecoz.github.io/blob/main/photo.jpg" alt="photo" style="height:120px;"/>
+<img src="./photo.jpg" alt="photo" style="height:120px;"/>
+
 Postdoctoral researcher at the Laboratoire of Météorologie Dynamique, Ecole Polytechnique, CNRS
 (camille.le-coz@lmd.ipsl.fr)
 
