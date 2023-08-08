@@ -5,7 +5,6 @@ Camille Le Coz
 Postdoctoral researcher at the Laboratoire of Météorologie Dynamique, Ecole Polytechnique, CNRS
 (camille.le-coz@lmd.ipsl.fr)
 
-
 Publications
 ------------
 1. Camille Le Coz, Arnold Heemink, Martin Verlaan, and Nick van de Giesen. [Spatial and time warping for gauge adjustment of rainfall estimates](https://www.mdpi.com/2073-4433/12/11/1510). Atmosphere, 12(11), 2021.
