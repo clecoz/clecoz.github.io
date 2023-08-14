@@ -2,8 +2,6 @@
 layout: home
 ---
 
-About
-=====
 
 <img src="./photo.jpg" alt="photo" style="height:120px;"/>
 
