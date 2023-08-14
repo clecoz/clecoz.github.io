@@ -1,5 +1,4 @@
-#Camille Le Coz
-#=============================
+
 <img src="./photo.jpg" alt="photo" style="height:120px;"/>
 
 Postdoctoral researcher at the Laboratoire of Météorologie Dynamique, Ecole Polytechnique, CNRS
