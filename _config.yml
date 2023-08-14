@@ -3,6 +3,7 @@ description: &description "personal homepage"
 url: https://clecoz.github.io
 email: camille.le-coz@lmd.ipsl.fr
 github_username:  clecoz
+googlescholar_username: https://scholar.google.fr/citations?user=pvBg6YcAAAAJ&hl=en&oi=ao
 
 social-network-links:
   googlescholar: https://scholar.google.fr/citations?user=pvBg6YcAAAAJ&hl=en&oi=ao
