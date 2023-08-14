@@ -9,6 +9,19 @@ email: camille.le-coz@lmd.ipsl.fr
 #linkedin_username: camille-le-coz-8593b91a1
 
 
+
+# Build settings
+markdown: kramdown
+theme: minima
+#remote_theme: pages-themes/minimal@v0.2.0
+#remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme 
+
+
+
 minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
@@ -34,12 +47,3 @@ minima:
   #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
   
-# Build settings
-markdown: kramdown
-theme: minima
-#remote_theme: pages-themes/minimal@v0.2.0
-#remote_theme: pages-themes/cayman@v0.2.0
-#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme 
