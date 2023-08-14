@@ -2,12 +2,10 @@ title: Camille Le Coz
 description: &description "personal homepage"
 url: https://clecoz.github.io
 
-github_username:  clecoz
 
 # Site Author
 author:
   name             : "Camille Le Coz"
-  googlescholar    : "https://scholar.google.fr/citations?user=pvBg6YcAAAAJ&hl=en&oi=ao"
   email            : "clecoz.le-coz@lmd.ipsl.fr"
   github           : "clecoz"
   
