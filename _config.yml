@@ -4,6 +4,7 @@ description: &description "personal homepage"
 url: https://clecoz.github.io
 email: camille.le-coz@lmd.ipsl.fr
 github_username:  clecoz
+googlescholar: https://scholar.google.fr/citations?user=pvBg6YcAAAAJ&hl=en&oi=ao
 
  # Generate social links in footer.
   #
