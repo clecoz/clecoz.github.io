@@ -1,6 +1,4 @@
 title: Camille Le Coz
-email: camille.le-coz@lmd.ipsl.fr
-name: &name "Camille Le Coz"
 description: &description "personal description"
 url: https://clecoz.github.io
 
@@ -17,32 +15,10 @@ author:
   googlescholar    : "https://scholar.google.fr/citations?user=pvBg6YcAAAAJ&hl=en&oi=ao"
   email            : "clecoz.le-coz@lmd.ipsl.fr"
   researchgate     :  
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "clecoz"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
   linkedin         :
   orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  
   
 # Build settings
 markdown: kramdown
