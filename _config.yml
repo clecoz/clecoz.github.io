@@ -1,11 +1,54 @@
 title: Camille Le Coz
 email: camille.le-coz@lmd.ipsl.fr
+name: &name "Camille Le Coz"
+description: &description "personal description"
+url: https://clecoz.github.io
+
 github_username:  clecoz
 
+# Site Author
+author:
+  name             : "Camille Le Coz"
+  avatar           : "photo.jpg"
+  bio              : "Postdoctoral researcher at the LMD"
+  location         : "Palaiseau, France"
+  employer         :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.fr/citations?user=pvBg6YcAAAAJ&hl=en&oi=ao"
+  email            : "clecoz.le-coz@lmd.ipsl.fr"
+  researchgate     :  
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "clecoz"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : 
+  lastfm           :
+  linkedin         :
+  orcid            : 
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+  
 # Build settings
 markdown: kramdown
 #theme: minima
-remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
 # - jekyll-remote-theme 
