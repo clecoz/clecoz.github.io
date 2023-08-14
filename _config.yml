@@ -1,13 +1,9 @@
 title: Camille Le Coz
 description: &description "personal homepage"
 url: https://clecoz.github.io
+email: camille.le-coz@lmd.ipsl.fr
+github_username:  clecoz
 
-
-# Site Author
-author:
-  name: Camille Le Coz
-  email: clecoz.le-coz@lmd.ipsl.fr
-  
   
 # Build settings
 markdown: kramdown
