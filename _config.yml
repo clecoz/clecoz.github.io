@@ -4,7 +4,7 @@ github_username:  clecoz
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: cayman
 plugins:
   - jekyll-feed
 # remote_theme: pages-themes/cayman@v0.2.0
