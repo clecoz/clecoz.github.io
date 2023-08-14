@@ -4,11 +4,9 @@ description: &description "personal homepage"
 url: https://clecoz.github.io
 email: camille.le-coz@lmd.ipsl.fr
 github_username:  clecoz
-google_scholar: https://scholar.google.fr/citations?user=pvBg6YcAAAAJ&hl=en&oi=ao
+googlescholar_username: Camille Le Coz
 
-social:
-  facebook: abc123
-  orcid: ????
+
  # Generate social links in footer.
   #
 social_links:
@@ -17,7 +15,7 @@ social_links:
   #   - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
   #   - { platform: github,         user_url: "https://github.com/jekyll/minima" }
-  - { platform: google_scholar, user_url: "https://scholar.google.fr/citations?user=pvBg6YcAAAAJ&hl=en&oi=ao" }
+   - { platform: google_scholar, user_url: "https://scholar.google.fr/citations?user=pvBg6YcAAAAJ&hl=en&oi=ao" }
   #   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
