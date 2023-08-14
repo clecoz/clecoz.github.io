@@ -4,6 +4,9 @@ url: https://clecoz.github.io
 email: camille.le-coz@lmd.ipsl.fr
 github_username:  clecoz
 
+social-network-links:
+  googlescholar: https://scholar.google.fr/citations?user=pvBg6YcAAAAJ&hl=en&oi=ao
+  github: clecoz
   
 # Build settings
 markdown: kramdown
