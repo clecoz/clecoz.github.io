@@ -5,9 +5,9 @@ url: https://clecoz.github.io
 
 # Site Author
 author:
-  name             : "Camille Le Coz"
-  email            : "clecoz.le-coz@lmd.ipsl.fr"
-  github           : "clecoz"
+  name: Camille Le Coz
+  email: clecoz.le-coz@lmd.ipsl.fr
+  github: clecoz
   
   
 # Build settings
